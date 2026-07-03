@@ -1,4 +1,4 @@
-# 
+# Secure LocalAI scripts. Featuring fine-tuning and model-monitoring — optimized for maximum performance and efficiency.
 
 
 
